@@ -1,0 +1,53 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "Fix the BUG in main.py",
+      "activeForm": "Doing: Fix the BUG in main.py",
+      "status": "pending",
+      "created": "2026-01-24T18:06:28.026671",
+      "updated": "2026-01-24T18:06:28.026671"
+    },
+    {
+      "id": 2,
+      "content": "**Define API Endpoints and Data Model**:",
+      "activeForm": "Doing: **Define API Endpoints and Data Model**:",
+      "status": "completed",
+      "created": "2026-01-24T18:07:12.196151",
+      "updated": "2026-01-24T18:07:56.545893"
+    },
+    {
+      "id": 3,
+      "content": "**Set Up the Development Environment**:",
+      "activeForm": "Doing: **Set Up the Development Environment**:",
+      "status": "completed",
+      "created": "2026-01-24T18:07:12.196151",
+      "updated": "2026-01-24T18:08:21.671168"
+    },
+    {
+      "id": 4,
+      "content": "**Implement CRUD Operations**:",
+      "activeForm": "Doing: **Implement CRUD Operations**:",
+      "status": "completed",
+      "created": "2026-01-24T18:07:12.206157",
+      "updated": "2026-01-24T18:10:24.746287"
+    },
+    {
+      "id": 5,
+      "content": "**Add Validation and Error Handling**:",
+      "activeForm": "Doing: **Add Validation and Error Handling**:",
+      "status": "completed",
+      "created": "2026-01-24T18:07:12.206157",
+      "updated": "2026-01-24T18:12:54.331420"
+    },
+    {
+      "id": 6,
+      "content": "**Test the API**:",
+      "activeForm": "Doing: **Test the API**:",
+      "status": "completed",
+      "created": "2026-01-24T18:07:12.211179",
+      "updated": "2026-01-24T18:14:38.486777"
+    }
+  ],
+  "updated": "2026-01-24T18:14:38.491298"
+}
